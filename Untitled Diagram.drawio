@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T07:48:01.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="rdeAud-BAxoXAuTbBmyn" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-28T07:48:56.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="k3lFphzfFjt9qNQrkaVf" version="14.5.3" type="github">
   <diagram id="z-KDvzGFbSrlj_xUQ9Ki" name="Page-1">
     <mxGraphModel dx="7669" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1221,6 +1221,12 @@
               <mxPoint x="1790" y="404" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gWwolZ_sz810OPmmLNXs-44" value="Đúng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1899" y="489" width="39" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gWwolZ_sz810OPmmLNXs-45" value="Sai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1787" y="438" width="28" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
