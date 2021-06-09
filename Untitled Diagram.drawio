@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T09:04:09.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="FV0ucHLktP5tEVW9FIFV" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T09:04:46.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ttFcAgsIbkQVfSRh47WY" version="14.7.6" type="github">
   <diagram id="z-KDvzGFbSrlj_xUQ9Ki" name="Page-1">
     <mxGraphModel dx="7534" dy="515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -2635,7 +2635,7 @@
         <mxCell id="pgVJ2nyrTFBohozovF2n-60" value="Kết quả đề tài" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;" connectable="0" vertex="1" parent="pgVJ2nyrTFBohozovF2n-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pgVJ2nyrTFBohozovF2n-61" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.292;exitY=0.966;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.422;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HOE4gPsYAUaEug2xH8yj-2" target="HOE4gPsYAUaEug2xH8yj-1">
+        <mxCell id="pgVJ2nyrTFBohozovF2n-61" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.337;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.422;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HOE4gPsYAUaEug2xH8yj-2" target="HOE4gPsYAUaEug2xH8yj-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2280" y="3210" as="sourcePoint" />
             <mxPoint x="2110" y="3200" as="targetPoint" />
@@ -2712,13 +2712,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pgVJ2nyrTFBohozovF2n-74" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.45;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.093;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HOE4gPsYAUaEug2xH8yj-2" target="HOE4gPsYAUaEug2xH8yj-1">
+        <mxCell id="pgVJ2nyrTFBohozovF2n-74" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.45;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HOE4gPsYAUaEug2xH8yj-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2230" y="2990" as="sourcePoint" />
-            <mxPoint x="1950" y="3030" as="targetPoint" />
+            <mxPoint x="1949" y="3094" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2240" y="3030" />
-              <mxPoint x="1990" y="3030" />
+              <mxPoint x="2225" y="3030" />
+              <mxPoint x="2003" y="3030" />
             </Array>
           </mxGeometry>
         </mxCell>
