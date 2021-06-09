@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T17:21:29.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="C3EPIHIgX9JK_PRv7QDI" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T19:00:11.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="fhGx08fm8-6ivgiht7aI" version="14.7.6" type="github">
   <diagram id="z-KDvzGFbSrlj_xUQ9Ki" name="Page-1">
-    <mxGraphModel dx="7379" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="7728" dy="622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2781,15 +2781,15 @@
             <mxPoint x="2600.5" y="3753.4100000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pgVJ2nyrTFBohozovF2n-104" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;exitX=0.018;exitY=-0.07;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pgVJ2nyrTFBohozovF2n-105">
+        <mxCell id="pgVJ2nyrTFBohozovF2n-104" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2477.5" y="3733.409999999999" as="sourcePoint" />
+            <mxPoint x="2480" y="3732" as="sourcePoint" />
             <mxPoint x="2599.5" y="3732.4099999999994" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pgVJ2nyrTFBohozovF2n-105" value="GiangVienHuongDan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="2477.5" y="3734.4099999999994" width="120" height="20" as="geometry" />
+          <mxGeometry x="2480.5" y="3736.4099999999994" width="114" height="17" as="geometry" />
         </mxCell>
         <mxCell id="pgVJ2nyrTFBohozovF2n-106" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2808,7 +2808,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pgVJ2nyrTFBohozovF2n-108" value="DeTai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="2504" y="3816.4799999999996" width="40" height="20" as="geometry" />
+          <mxGeometry x="2505" y="3818.4799999999996" width="39" height="17" as="geometry" />
         </mxCell>
         <mxCell id="pgVJ2nyrTFBohozovF2n-109" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2845,7 +2845,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pgVJ2nyrTFBohozovF2n-114" value="PhanBien" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="2519.5" y="3774.4099999999994" width="60" height="20" as="geometry" />
+          <mxGeometry x="2521.5" y="3776.4099999999994" width="57" height="17" as="geometry" />
         </mxCell>
         <mxCell id="pgVJ2nyrTFBohozovF2n-120" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;entryX=0.901;entryY=0.798;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pgVJ2nyrTFBohozovF2n-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2875,7 +2875,7 @@
             <mxPoint x="2080" y="3730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pgVJ2nyrTFBohozovF2n-124" value="&lt;font face=&quot;Times New Roman&quot;&gt;Kết quả phản biện&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pgVJ2nyrTFBohozovF2n-123">
+        <mxCell id="pgVJ2nyrTFBohozovF2n-124" value="&lt;font&gt;Kết quả phản biện&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;" connectable="0" vertex="1" parent="pgVJ2nyrTFBohozovF2n-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
