@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T15:04:13.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="uFsJ5WsXmKSTKuNuDKke" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T15:18:58.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="iFR9sXZccDgd3O0b4PAO" version="14.8.0" type="github">
   <diagram id="z-KDvzGFbSrlj_xUQ9Ki" name="Page-1">
-    <mxGraphModel dx="7728" dy="622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="7534" dy="515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1233,7 +1233,7 @@
         <mxCell id="-dcWlr1ewBUNY1YXK-MS-4" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1010" y="2712" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-dcWlr1ewBUNY1YXK-MS-5" value="Dữ liệu Edusoft" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="-dcWlr1ewBUNY1YXK-MS-5" value="Nhập liệu thông tin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="604" y="2708" width="182.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-dcWlr1ewBUNY1YXK-MS-6" value="Xử lý gán dữ liệu" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
